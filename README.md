@@ -35,3 +35,4 @@ Contact
 For any inquiries or questions, please contact the Horiseon team at sarah@horiseongroup.com.
 
 Written by Sarah Knight Lepine reviewed by WireMock team for accuracy 
+updated june 17 
